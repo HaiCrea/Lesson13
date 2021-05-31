@@ -1,0 +1,53 @@
+#all{
+	width: 1000px;
+	height: 400px;
+	background: #FE9191;
+}
+#dong{
+	width: 1000px;
+	height: 200px;
+	background: blue;
+}
+.do{
+	width: 200px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+.trang{
+	width: 200px;
+	height: 200px;
+	background: white;
+	float: left;
+}
+.vang{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	float: left;
+}
+.tim{
+	width: 200px;
+	height: 200px;
+	background: purple;
+	float: left;
+}
+.green{
+	width: 200px;
+	height: 200px;
+	background: green;
+	float: left;
+}
+.blue{
+	width: 200px;
+	height: 200px;
+	background: blue;
+	float: left;
+}
+
+
+
+
+
+
+
